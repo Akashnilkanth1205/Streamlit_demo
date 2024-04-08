@@ -12,8 +12,8 @@ from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.metrics import accuracy_score
 
-st.title('Assignment Project')
-st.subheader('by Siddi Saai | Vamsi Krishna | Gnaneshwar')
+st.title('Sample Project')
+
 
 st.write("""
 # Explore different classifier and datasets
