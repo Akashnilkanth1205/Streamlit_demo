@@ -12,17 +12,17 @@ st.title("Energy Group Visualization Dashboard")
 if project_selected == "Renewable Energy Capacity":
     st.subheader("Renewable Energy Capacity Simulation")
     st.write("This project focuses on modeling renewable energy capacity.")
-    st.image("path_to_your_image1.jpg", caption="Projected Renewable Energy Capacity", use_column_width=True)
+    #st.image("path_to_your_image1.jpg", caption="Projected Renewable Energy Capacity", use_column_width=True)
 
 elif project_selected == "Energy Demand & Efficiency":
     st.subheader("Energy Demand & Efficiency Analysis")
     st.write("This project analyses energy demand trends and efficiency improvements.")
-    st.image("path_to_your_image2.jpg", caption="Energy Demand Trends", use_column_width=True)
+   # st.image("path_to_your_image2.jpg", caption="Energy Demand Trends", use_column_width=True)
 
 elif project_selected == "Decarbonization Pathways":
     st.subheader("Decarbonization Pathways Exploration")
     st.write("This project visualizes pathways for decarbonization.")
-    st.image("path_to_your_image3.jpg", caption="Decarbonization Pathways", use_column_width=True)
+   # st.image("path_to_your_image3.jpg", caption="Decarbonization Pathways", use_column_width=True)
 
 # Footer
 st.sidebar.title("About")
